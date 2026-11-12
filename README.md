@@ -1,6 +1,6 @@
 # Sistema Vida Plena (SVP)
 
-Trabalho da disciplina de Gestão de Dados — Entregas 5 a 9, com documentação e protótipo do Sistema Vida Plena, da Vida Plena Clínicas Veterinárias.
+Documentação e protótipo do Sistema Vida Plena, da Vida Plena Clínicas Veterinárias.
 
 ## Integrantes
 
