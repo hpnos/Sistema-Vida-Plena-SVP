@@ -43,8 +43,8 @@ sistema-vida-plena/
 
 ```
 
-| Documento | Assunto | Atividade |
-|---|---|---|
+| Documento | Assunto |
+|---|---|
 | 01-empresa | Quem é a clínica e que problema o sistema resolve 
 | 02-arquitetura | Desenho geral e por que foi montado assim
 | 03-modelagem | Modelo relacional e modelo estrela 
