@@ -16,7 +16,6 @@ Trabalho da disciplina de Gestão de Dados — Entregas 5 a 9, com documentaçã
 
 # Sistema Vida Plena (SVP)
 
-Projeto da disciplina Gestão de dados.
 
 O SVP é o sistema de uma clínica veterinária fictícia, a Vida Plena. Ele cobre cadastro de tutores e animais, agenda, prontuário, pedidos de exame e financeiro. Aqui no repositório está a parte de dados do projeto: como a clínica guarda, protege, integra e analisa as informações.
 
@@ -46,10 +45,10 @@ sistema-vida-plena/
 
 | Documento | Assunto | Atividade |
 |---|---|---|
-| 01-empresa | Quem é a clínica e que problema o sistema resolve | Atv-1 |
-| 02-arquitetura | Desenho geral e por que foi montado assim | Atv-1 |
-| 03-modelagem | Modelo relacional e modelo estrela | Atv-2 |
-| 04-armazenamento | Bancos, documentos, arquivo físico e backup | Atv-3 |
-| 05-seguranca | Acesso, criptografia e auditoria | Atv-3 |
-| 06-integracao | Laboratório, nota fiscal e ETL | Atv-3 |
-| 07-etica-em-dados | Discussão feita em sala | Discussão |
+| 01-empresa | Quem é a clínica e que problema o sistema resolve 
+| 02-arquitetura | Desenho geral e por que foi montado assim
+| 03-modelagem | Modelo relacional e modelo estrela 
+| 04-armazenamento | Bancos, documentos, arquivo físico e backup 
+| 05-seguranca | Acesso, criptografia e auditoria 
+| 06-integracao | Laboratório, nota fiscal e ETL 
+| 07-etica-em-dados | Discussão feita em sala 
