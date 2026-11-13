@@ -14,7 +14,6 @@ O acesso é por perfil. Cada usuário tem um perfil e a API confere a permissão
 | Auditoria | Ler a trilha de auditoria | Alterar dados |
 | TI | Gerenciar usuários e perfis | Ler prontuário |
 
-[Ajustar a tabela para ficar igual ao que foi implementado.]
 
 ## Login
 
@@ -44,4 +43,4 @@ A assinatura HMAC no retorno do laboratório é para a API ter certeza de que o 
 
 ## Auditoria
 
-Fica registrado quem fez, o quê, quando e em qual registro. Vale para [login, abertura de prontuário, alteração de prontuário, mudança de perfil, ...]. Só o perfil de auditoria lê essa trilha e ninguém altera.
+Fica registrado quem fez o quê, quando e o que mudou. Serve para prontuários, medicamentos ou não controlados (para ver quem registrou a saída, quantidade da dose e quem administrou a medicação), o financeiro, exames (para verificar a data do resultado e qual a previsão do resultado sair). A auditoria é responsável por todas essas funções e apenas ela que tem todo o controle disso tudo.
