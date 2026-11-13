@@ -2,7 +2,8 @@
 
 ## Clínica Veterinária Vida Plena
 
-[Dois ou três parágrafos com as palavras do grupo: onde fica, tamanho, quantos atendimentos por dia, o que atende — consulta, internação, cirurgia, vacina, exames.]
+Clínica Veterinária especializada em atendimento de animais de pequeno, médio e grande porte. Equipe profissional e qualificada em todos os setores da clínica para cumprir com os deveres e responsabilidades.
+
 
 ## Quem trabalha lá
 
@@ -14,11 +15,10 @@
 - Auditoria
 - TI
 
-São esses sete grupos que viram os perfis de acesso do sistema (ver [05-seguranca.md](05-seguranca.md)).
 
 ## O problema
 
-[Como a clínica trabalhava antes: ficha em papel, planilha, resultado de exame chegando por e-mail ou impresso, dificuldade de achar o histórico do animal.]
+A clínica não tinha equipamentos de qualidade para garantir agilidade e precisão no dia-a-dia, fazer toda a guia do animal (com tamanho, peso, idade, altura, nome dos donos do animal) a mão, problemas de controle do estoque de medicamentos e materiais utilizados na clínica.
 
 ## O que o sistema faz
 
