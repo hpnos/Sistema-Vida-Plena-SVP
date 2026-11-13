@@ -24,7 +24,7 @@ O SVP é o sistema de uma clínica veterinária fictícia, a Vida Plena. Ele cob
 
 Resumindo o desenho: a equipe da clínica acessa a API, a API grava no PostgreSQL, um worker cuida da comunicação com o laboratório e com a emissão de nota, e um ETL leva os dados para um segundo banco usado só para relatórios. 
 
-## O que tem aqui
+## Documentação
 
 ```
 sistema-vida-plena/
