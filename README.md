@@ -31,13 +31,13 @@ sistema-vida-plena/
 ├── README.md
 ├── Modelagem de Dados — Sistema Vida Plena (SVP) (1).pdf
 ├── docs/
-│   ├── 01-empresa.md
-│   ├── 02-arquitetura.md
-│   ├── 03-modelagem.md
-│   ├── 04-armazenamento.md
-│   ├── 05-seguranca.md
-│   ├── 06-integracao.md
-│   └── 07-etica-em-dados.md
+│   ├── empresa.md
+│   ├── arquitetura.md
+│   ├── modelagem.md
+│   ├── armazenamento.md
+│   ├── seguranca.md
+│   ├── integracao.md
+│   └── etica-em-dados.md
 └── diagramas/
     ├── arquitetura-final.pdf
 
@@ -45,10 +45,10 @@ sistema-vida-plena/
 
 | Documento | Assunto |
 |---|---|
-| 01-empresa | Quem é a clínica e que problema o sistema resolve 
-| 02-arquitetura | Desenho geral e por que foi montado assim
-| 03-modelagem | Modelo relacional e modelo estrela 
-| 04-armazenamento | Bancos, documentos, arquivo físico e backup 
-| 05-seguranca | Acesso, criptografia e auditoria 
-| 06-integracao | Laboratório, nota fiscal e ETL 
-| 07-etica-em-dados | Discussão feita em sala 
+| empresa | Quem é a clínica e que problema o sistema resolve 
+| arquitetura | Desenho geral e por que foi montado assim
+| modelagem | Modelo relacional e modelo estrela 
+| armazenamento | Bancos, documentos, arquivo físico e backup 
+| seguranca | Acesso, criptografia e auditoria 
+| integracao | Laboratório, nota fiscal e ETL 
+| etica-em-dados | Discussão feita em sala 
