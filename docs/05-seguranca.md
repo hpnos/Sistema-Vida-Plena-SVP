@@ -29,11 +29,15 @@ O acesso é por perfil. Cada usuário tem um perfil e a API confere a permissão
 | Navegador da equipe → API | HTTPS (TLS) |
 | API/worker → laboratório | HTTPS (TLS) |
 | Laboratório → API (resultado) | HTTPS (TLS) + assinatura HMAC |
-| ETL → `svp_dw` | Rede interna do servidor |
+| ETL → `svp_dw` | Rede interna do No protótipo tudo roda local em HTTP, então por enquanto a única proteção
+no retorno do laboratório é a assinatura HMAC. O TLS entra na implantação.
 
-No protótipo tudo roda local em HTTP. O certificado TLS entra na implantação.
+A assinatura serve para a API ter certeza de que o resultado veio do
+laboratório e não foi alterado no caminho.
 
-A assinatura HMAC no retorno do laboratório é para a API ter certeza de que o resultado veio mesmo do laboratório e não foi alterado no caminho.
+A API rejeita o que estiver fora de uma janela de poucos
+minutos, para evitar reenvio de resultado antigo ou repetido.
+
 
 ## Dados guardados
 
