@@ -18,8 +18,7 @@ O acesso é por perfil. Cada usuário tem um perfil e a API confere a permissão
 ## Login
 
 - Senha guardada com hash Argon2id; a senha em si nunca fica no banco.
-- Depois do login a API entrega um token (JWT) que vale por [tempo].
-- Segundo fator (MFA) opcional.
+- Depois do login a API entrega um token (JWT) que vale por um curto tempo.
 - A sessão pode ser encerrada pelo administrador, por exemplo quando um funcionário sai da clínica.
 
 ## Dados em trânsito
