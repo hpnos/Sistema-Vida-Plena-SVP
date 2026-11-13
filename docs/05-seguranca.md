@@ -11,7 +11,7 @@ O acesso é por perfil. Cada usuário tem um perfil e a API confere a permissão
 | Recepção | Cadastro e agenda | Ler prontuário |
 | Financeiro | Contas, pagamentos e notas | Ler prontuário |
 | Diretoria | Indicadores | Alterar dados |
-| Auditoria | Ler a trilha de auditoria | Analisar e fiscalizar dados de prontuário e etc.|
+| Auditoria | Ler a trilha de auditoria | Alterar dados do prontuário e etc.|
 | TI | Gerenciar usuários e perfis | Ler prontuário |
 
 
