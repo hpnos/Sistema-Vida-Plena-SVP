@@ -65,7 +65,6 @@ Resumindo o desenho: a equipe da clínica acessa a API, a API grava no PostgreSQ
 ```
 sistema-vida-plena/
 ├── README.md
-├── Modelagem de Dados — Sistema Vida Plena (SVP) (1).pdf
 ├── docs/
 │   ├── empresa.md
 │   ├── arquitetura.md
