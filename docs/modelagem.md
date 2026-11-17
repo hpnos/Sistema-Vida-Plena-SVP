@@ -29,8 +29,6 @@ Regras que o próprio banco garante:
 
 Modelo estrela, com 3 tabelas fato e 6 dimensões.
 
-![Modelo estrela](../diagramas/estrela-svp-dw.png)
-
 | Fato | O que mede | Grão |
 |---|---|---|
 | [fato_atendimento] | [quantidade e duração dos atendimentos] | [um atendimento] |
