@@ -29,7 +29,7 @@ A Vida Plena é uma clínica pequena, sem equipe de infraestrutura. Por isso a p
 
 O ponto fraco é conhecido: se esse servidor parar, para tudo. O ideal seria cada serviço em uma máquina. Para o tamanho da clínica, a escolha foi aceitar esse risco e compensar com:
 
-- backup diário guardado fora do servidor (ver [04-armazenamento.md](04-armazenamento.md));
+- backup diário guardado fora do servidor (ver [04-armazenamento.md](armazenamento.md));
 - nobreak no servidor;
 - plano de contingência em papel: [descrever — ficha de atendimento impressa, quem lança no sistema depois e em quanto tempo].
 
