@@ -1,6 +1,6 @@
 # Arquitetura
 
-![Arquitetura final](../diagramas/arquitetura-final.png)
+![Arquitetura final](../diagramas/arquitetura-final.pdf)
 
 ## Como ler o desenho
 
