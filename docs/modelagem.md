@@ -6,7 +6,6 @@ São dois modelos, um para cada banco.
 
 Modelo relacional normalizado até a 3ª forma normal, com [46] tabelas.
 
-![DER](../diagramas/der-svp.png)
 
 As tabelas estão agrupadas assim:
 
