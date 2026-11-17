@@ -48,7 +48,6 @@ Indicadores que saem daí:
 No `svp` a prioridade é gravar certo e sem repetição, então os dados ficam espalhados em muitas tabelas. Para relatório isso atrapalha, porque qualquer pergunta vira uma consulta com muitos joins. No `svp_dw` os dados já ficam juntos do jeito que o relatório precisa.
 
 
-# Modelagem de Dados — Sistema Vida Plena (SVP)
 
 ---
 
